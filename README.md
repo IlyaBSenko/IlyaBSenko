@@ -3,5 +3,3 @@
 ![Top Languages](https://github-readme-stats-eight-theta-92.vercel.app/api/top-langs/?username=IlyaBSenko&layout=compact&cache_seconds=21600&theme=radical&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=IlyaBSenko&theme=radical&hide_border=true)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=IlyaBSenko&theme=radical&no-frame=true&margin-w=10)
