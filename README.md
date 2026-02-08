@@ -33,8 +33,10 @@
 
 ---
 
+<h2 align="center"> Trust 🤫</h2>
+
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=ueU7Jp0bO9M&list=RDueU7Jp0bO9M&start_radio=1">🧙‍♂️🧙‍♂️🧙‍♂️</a>
+  <a href="https://www.youtube.com/watch?v=ueU7Jp0bO9M&list=RDueU7Jp0bO9M&start_radio=1">🧙‍♂️🔮🎩</a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/watch?v=_jAQ1HdoX78&list=RD_jAQ1HdoX78&start_radio=1">🟥🟥🟥</a>
   &nbsp;&nbsp;&nbsp;
