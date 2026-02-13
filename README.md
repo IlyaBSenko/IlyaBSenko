@@ -45,7 +45,7 @@
 
 ---
 
-<h2 align="center"> CLick These 🤫</h2>
+<h2 align="center"> Click These </h2>
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=ueU7Jp0bO9M&list=RDueU7Jp0bO9M&start_radio=1">🧙‍♂️🔮🎩</a>
