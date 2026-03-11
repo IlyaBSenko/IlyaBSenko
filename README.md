@@ -45,8 +45,15 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta-92.vercel.app/api/wakatime?username=IlyaBSenko&range=all_time&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IlyaBSenko&theme=github-dark&hide_border=true" />
 </p>
+
+
+<!--
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta-92.vercel.app/api/wakatime?username=IlyaBSenko&range=last_year&theme=github_dark&hide_border=true" />
+</p>
+-->
 
 ---
 
