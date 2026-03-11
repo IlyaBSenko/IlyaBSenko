@@ -1,5 +1,13 @@
 <h1 align="center">Ilya Balatsenko</h1>
 
+<!-- Cool Typing intro -->
+<!--
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Neovim+Enjoyer;Systems+Programming;Building+Cool+Stuff" />
+</p>
+-->
+
+<!-- profile views -->
 <!--
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=IlyaBSenko&color=blueviolet&style=flat" />
@@ -48,7 +56,22 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IlyaBSenko&theme=github-dark&hide_border=true" />
 </p>
 
+<!-- Snake thing -->
+<!--
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+-->
 
+<!-- github quotes -->
+<!--
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+-->
+
+
+<!-- WakaTime stats (ranges includeL last_year, last_7_days) -->
 <!--
 <p align="center">
   <img src="https://github-readme-stats-eight-theta-92.vercel.app/api/wakatime?username=IlyaBSenko&range=last_year&theme=github_dark&hide_border=true" />
