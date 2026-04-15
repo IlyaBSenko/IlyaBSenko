@@ -57,7 +57,7 @@
 -->
 
 
-<!-- WakaTime stats (ranges includeL last_year, last_7_days) -->
+<!-- WakaTime stats (ranges include last_year, last_7_days) -->
 <!--
 <p align="center">
   <img src="https://github-readme-stats-eight-theta-92.vercel.app/api/wakatime?username=IlyaBSenko&range=last_year&theme=github_dark&hide_border=true" />
