@@ -29,10 +29,12 @@
   
 <!-- top langs hide=java / exclude_repos--> 
 
+<!--
 <p align="center">
   <img valign="top" width="440" src="https://streak-stats.demolab.com?user=IlyaBSenko&theme=github_dark&hide_border=true" />
   <img valign="top" width="320" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IlyaBSenko&theme=github_dark"  />
 </p>
+-->
 
 
 <!-- Contribution Graph
