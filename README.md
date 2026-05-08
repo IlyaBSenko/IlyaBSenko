@@ -24,8 +24,10 @@
   <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/>
 </p>
 
-
 ---
+
+<br>
+
 
 <p align="center">
   <img valign="top" width="420" src="https://github-readme-stats-eight-theta-92.vercel.app/api?username=IlyaBSenko&show_icons=true&cache_seconds=21600&theme=github_dark&hide_border=true" />
